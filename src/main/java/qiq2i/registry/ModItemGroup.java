@@ -26,6 +26,9 @@ public class ModItemGroup {
                 .entries((displayContext, entries) -> {
                     entries.add(ModItems.CITRINE);
                     entries.add(ModItems.RAW_CITRINE);
+                    entries.add(ModBlocks.CIRINE_BLOCK);
+                    entries.add(ModBlocks.CIRINE_ORE);
+                    entries.add(ModBlocks.DEEPSLATE_CIRINE_ORE);
                 }).build());
     }
     public static  void registerModItemGroup() {

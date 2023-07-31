@@ -1,5 +1,8 @@
 {
   "item.template-mod.citrine": "Citrine",
   "item.template-mod.raw_citrine": "Raw Citrine",
+  "block.template-mod.citrine_block": "Block of Citrine",
+  "block.template-mod.citrine_ore": "Citrine Ore",
+  "block.template-mod.deepslate_citrine_ore": "Deepslate Citrine Ore",
   "itemgroup.template-mod.citrine": "Citrine"
 }

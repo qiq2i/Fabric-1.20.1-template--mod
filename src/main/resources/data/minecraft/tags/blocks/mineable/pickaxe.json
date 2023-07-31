@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "template-mod:citrine_block",
+    "template-mod:citrine_ore",
+    "template-mod:deepslate_citrine_ore"
+  ]
+}

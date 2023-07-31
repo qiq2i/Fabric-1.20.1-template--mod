@@ -1,5 +1,8 @@
 {
   "item.template-mod.citrine": "黄晶",
   "item.template-mod.raw_citrine": "粗黄晶",
+  "block.template-mod.citrine_block": "黄晶块",
+  "block.template-mod.citrine_ore": "黄晶矿石",
+  "block.template-mod.deepslate_citrine_ore": "深层黄晶矿石",
   "itemgroup.template-mod.citrine": "黄晶"
 }
